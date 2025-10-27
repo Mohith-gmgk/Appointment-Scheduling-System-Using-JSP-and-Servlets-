@@ -1,0 +1,7 @@
+# Ignore Tomcat compiled files and class files
+*.class
+*.java~
+# Ignore log files and temporary development files
+*.log
+# Ignore compiled class files if you had a 'classes' folder
+WEB-INF/classes/
